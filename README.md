@@ -148,7 +148,7 @@ Feel free to reach out for any questions or suggestions!
 
 ## Contact
 
-- Your Name: [nikhil_rs@live.com](mailto:nikhil_rs@live.com)
+- Name: [nikhil_rs@live.com](mailto:nikhil_rs@live.com)
 - GitHub: [NikhilNRS]([https://github.com/yourusername](https://github.com/NikhilNRS))
 
 ---
